@@ -1,0 +1,16 @@
+:root {
+  --primary-color: #1E3A8A;     /* Navy blue */
+  --secondary-color: #2563EB;   /* Bright blue */
+  --accent-color: #F59E0B;      /* Amber */
+  --background-color: #f4f4f4;  /* Light gray */
+  --text-color: #333333;        /* Dark gray */
+
+  --font-family: Arial, Helvetica, sans-serif;
+  --base-spacing: 16px;
+}
+:root {
+  --image-size: 350px;
+  --image-border-color: #38d309d5; /* Bright blue */
+  --image-shadow: rgba(0, 0, 0, 0.2);
+}
+
